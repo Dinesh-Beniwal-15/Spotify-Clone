@@ -1,6 +1,6 @@
 🎵 Spotify Clone:
 
-Link-> https://dinesh-beniwal-15.github.io/Spotify-Clone/
+🔗 Live Demo:  https://dinesh-beniwal-15.github.io/Spotify-Clone/
 
 A visually stunning Spotify Clone built purely with HTML and CSS, recreating the look and feel of Spotify's modern web player. This static project focuses on layout design, responsive structure, and user interface precision – without using JavaScript.
 
